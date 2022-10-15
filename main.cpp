@@ -110,7 +110,7 @@ void a::reservation()
 
   {
 
-    cout<<"\nSeat Number: ";
+    cout<<"Seat Number: ";
 
     cin>>bus_seat;
 
